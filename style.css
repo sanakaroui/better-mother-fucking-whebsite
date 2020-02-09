@@ -1,0 +1,31 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 0 10px;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2;
+}
+
+h1 {
+    color: #3e940c;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+h2 {
+    color: #0a1174;
+}
+h3 {
+    color: #554d06;
+}
+
+img {
+    border-style: solid;
+    border-radius: 3%;
+}
